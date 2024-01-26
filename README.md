@@ -1,6 +1,6 @@
 # Welcome
 
-![](https://github.com/durikr/rockPaperScissorsSimulator/Simulator.mov)
+![](https://github.com/durikr/rockPaperScissorsSimulator/blob/main/Simulator.mov)
 
 
 # Test
