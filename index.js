@@ -5,11 +5,11 @@ const players = document.getElementsByClassName("players");
 let raf;
 let running = false;
 let playerObjects = [];
-let numberOfPlayers = 50;
+let numberOfPlayers = 20;
 
 const playerConstants = {
-    width: 20,
-    height: 20
+    width: 30,
+    height: 30
 }
 
 const imgPaper = document.getElementById("paper");
